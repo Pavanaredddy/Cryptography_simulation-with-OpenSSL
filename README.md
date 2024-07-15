@@ -63,7 +63,7 @@ Detailed architecture and process flow can be found in the project documentation
 -	Perform security analysis and vulnerability assessment.
 -	Validate secure handling of cryptographic keys and sensitive data.
 
-(![Image](Documents/images/Source code implementation.png))
+![Image](Documents/images/Source code implementation.png)
 
 
 ## Output
