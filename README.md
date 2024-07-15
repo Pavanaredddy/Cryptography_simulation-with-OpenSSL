@@ -78,15 +78,15 @@ Detailed architecture and process flow can be found in the project documentation
 (![Image](https://github.com/Pavanaredddy/Cryptography_simulation-with-OpenSSL/blob/main/Project%20Outcomes/Wireshark%20capture.png))
 
 ## Team
-VIPPAGUNTA HIMACHARITHA
+###VIPPAGUNTA HIMACHARITHA
  - As a team leader, I Designed the overall architecture of the project and I also contributed my part by managing, communicating and motivating my team members along with the sprints of the project.  
-PAVANA MADDIREDDY 
+###PAVANA MADDIREDDY 
 - As a team member, I developed the crypto wrapper using OpenSSL and test cryptographic functionalities(ex: AES-GCM, RSA, SHA-256,DH)
-PUTTA VENKATA PUSHPA 
+###PUTTA VENKATA PUSHPA 
 - As a team member, I Implemented and managed the socket communication for the client and the server applications. Also, Ensure the cryptographic protocols are secure and efficient. 
-ARIGELA YASHASWINI
+###ARIGELA YASHASWINI
  - As a team member, I ensured reliable and secure network communication over UDP and monitored network traffic by analysing it using Wireshark. Also, Troubleshoot and resolve any network related issues.
-MINI GADHIRAJU 
+###MINI GADHIRAJU 
 - As a team member, I provided support for certificate management by generating certificates, signing certificates and verifying them. 
 
 
