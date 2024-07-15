@@ -63,19 +63,19 @@ Detailed architecture and process flow can be found in the project documentation
 -	Perform security analysis and vulnerability assessment.
 -	Validate secure handling of cryptographic keys and sensitive data.
 
-![Image](Documents/images/Source code implementation.png)
+![Image](https://github.com/Pavanaredddy/Cryptography_simulation-with-OpenSSL/blob/main/Documents/images/Source%20code%20implementation.png)
 
 
 ## Output
-(![Image](Project Outcomes/Communication of Eliza with alice and bob.png))
+(![Image](https://github.com/Pavanaredddy/Cryptography_simulation-with-OpenSSL/blob/main/Project%20Outcomes/Communication%20of%20Eliza%20with%20alice%20and%20bob.png))
 
-(![Image](Project Outcomes/Digital Certificate format.png))
+(![Image](https://github.com/Pavanaredddy/Cryptography_simulation-with-OpenSSL/blob/main/Project%20Outcomes/Digital%20Certificate%20format.png))
 
-(![Image](Project Outcomes/Private Key format.png))
+(![Image](https://github.com/Pavanaredddy/Cryptography_simulation-with-OpenSSL/blob/main/Project%20Outcomes/Private%20Key%20format.png))
 
-(![Image](Project Outcomes/Server port address.png))
+(![Image](https://github.com/Pavanaredddy/Cryptography_simulation-with-OpenSSL/blob/main/Project%20Outcomes/Server%20port%20address.png))
 
-(![Image](Project Outcomes/Wireshark capture.png))
+(![Image](https://github.com/Pavanaredddy/Cryptography_simulation-with-OpenSSL/blob/main/Project%20Outcomes/Wireshark%20capture.png))
 
 ## Team
 VIPPAGUNTA HIMACHARITHA
